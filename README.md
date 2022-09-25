@@ -10,7 +10,7 @@
     <br>
     <br>
     <hr>
-      Thank yoj for visiting my page; this was set up for tutoring our st
+      Thank you for visiting my page; this page is set up for tutoring our students.
     <br>
     <hr>
 
